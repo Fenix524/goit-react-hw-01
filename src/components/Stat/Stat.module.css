@@ -1,0 +1,13 @@
+.element{
+    height: 70px;
+    padding: 5px 10px;
+    flex: 1 1 auto;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    border: 2px solid #93796126;
+    color: #675b4a;
+}
